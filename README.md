@@ -18,7 +18,8 @@ The repository has following folders:
 7) Deployment - This folder has the streamlit file to showcase the web interface of the working model.
 
 To run the model, navigate to Deployment folder , clone it and use the following command : 
-#streamlit run medical_report_generator.py
+
+streamlit run medical_report_generator.py
 
 ![streamlit_SC](https://user-images.githubusercontent.com/93669922/206935080-0e4e33be-83d8-4952-82a9-9bec5cce5b56.png)
 
