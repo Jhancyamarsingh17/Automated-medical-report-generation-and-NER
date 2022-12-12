@@ -23,6 +23,8 @@ To run the model, navigate to Deployment folder , clone it and use the following
 
 ![streamlit_SC](https://user-images.githubusercontent.com/93669922/206935080-0e4e33be-83d8-4952-82a9-9bec5cce5b56.png)
 
+**Link to the Blog**
+https://medium.com/@capstone606/automatic-x-ray-report-generation-using-deep-learning-models-and-named-entity-recognition-5705fadf0a9c
 
 
 
