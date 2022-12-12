@@ -21,7 +21,8 @@ To run the model, navigate to Deployment folder , clone it and use the following
 
 **streamlit run medical_report_generator.py**
 
-![streamlit_SC](https://user-images.githubusercontent.com/93669922/206935080-0e4e33be-83d8-4952-82a9-9bec5cce5b56.png)
+![WhatsApp Image 2022-12-11 at 22 38 34](https://user-images.githubusercontent.com/63223619/206956707-45e1f166-d588-424c-97a3-de25aa056b65.jpg)
+
 
 **Link to the Blog**
 https://medium.com/@capstone606/automatic-x-ray-report-generation-using-deep-learning-models-and-named-entity-recognition-5705fadf0a9c
