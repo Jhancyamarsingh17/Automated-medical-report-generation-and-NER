@@ -15,7 +15,7 @@ The repository has following folders:
 3) **Model_1_GRU_with_Inception** - This folder has the model which is trained on one image using Encoder-Inception v3 pre-trained model and Decoder-GRU with Attention   mechanism. The generated report has been tagged and simplified using NER model.
 4) **Model_2_GRU_with_CheXNet** - This folder has the model which is trained on one image using Encoder-CheXNet pre-trained model and Decoder-GRU with Attention mechanism. Also, using the NER model the resulting report was labeled and simplified.
 5) **Model_3_LSTM_with_CheXNet** -  This folder has the model which is trained on concatenated features of two image using Encoder-CheXNet pre-trained model and Decoder-LSTM with Attention mechanism implemented along with NER.
-7) **Deployment** - This folder has the streamlit file to showcase the web interface of the working model.
+7) **streamlit_deployment** - This folder has the streamlit file to showcase the web interface of the working model.
 
 To run the model, navigate to Deployment folder , clone it and use the following command : 
 
