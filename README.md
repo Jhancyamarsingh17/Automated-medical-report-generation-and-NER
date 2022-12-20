@@ -17,7 +17,7 @@ The repository has following folders:
 5) **Model_3_LSTM_with_CheXNet** -  This folder has the model which is trained on concatenated features of two image using Encoder-CheXNet pre-trained model and Decoder-LSTM with Attention mechanism implemented along with NER.
 7) **streamlit_deployment** - This folder has the streamlit file to showcase the web interface of the working model.
 
-To run the model, navigate to Deployment folder , clone it and use the following command : 
+To run the model, navigate to Deployment folder , clone it,install all the libraries/dependencies given in requirements.txt and use the following command : 
 
 **streamlit run medical_report_generator.py**
 
