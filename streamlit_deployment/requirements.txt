@@ -1,3 +1,5 @@
+***********************************Install required libraries******************************************
+
 pip install streamlit
 pip install -U spacy
 pip install scispacy
@@ -7,3 +9,7 @@ pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.4.0/e
 pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.4.0/en_ner_bc5cdr_md-0.4.0.tar.gz
 pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.4.0/en_ner_bionlp13cg_md-0.4.0.tar.gz
 pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.4.0/en_core_sci_lg-0.4.0.tar.gz
+
+
+*********************Link to download required dependencies and sample data******************************
+https://drive.google.com/drive/folders/1CwnSaMjAT9M3Lhlvv4-BInjK1qLEPgBk?usp=sharing
